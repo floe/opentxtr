@@ -10,6 +10,9 @@ from a 600x800 pixel pgm image, do
 and tweak the beagle_client.py script.
 
 
+Some more details on http://floe.butterbrot.org/matrix/hacking/txtr/
+
+
 some random notes about the protocol
 ------------------------------------
 
